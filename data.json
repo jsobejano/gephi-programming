@@ -591,7 +591,7 @@
             "id": "8",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Cloud Computing",
@@ -599,7 +599,7 @@
             "id": "17",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Diseño visual de la interfaz (UI). Prototipado",
@@ -607,7 +607,7 @@
             "id": "57",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Prueba de seguridad de aplicaciones web",
@@ -615,7 +615,7 @@
             "id": "73",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Voice Tech",
@@ -623,7 +623,7 @@
             "id": "79",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -631,7 +631,7 @@
             "id": "45",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Implementación y testing con usuarios",
@@ -639,7 +639,7 @@
             "id": "58",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Implementación de experiencias conversacionales",
@@ -647,7 +647,7 @@
             "id": "83",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -655,7 +655,7 @@
             "id": "24",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -663,7 +663,7 @@
             "id": "37",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Web Programming II",
@@ -671,7 +671,7 @@
             "id": "10",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Secure coding",
@@ -679,7 +679,7 @@
             "id": "69",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Bootcamp de Desarrollo Web",
@@ -687,7 +687,7 @@
             "id": "51",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -695,7 +695,7 @@
             "id": "38",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Desarrollo web",
@@ -703,7 +703,7 @@
             "id": "87",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Modelos de negocio en interfaces conversacionales",
@@ -711,7 +711,7 @@
             "id": "81",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Data Structures",
@@ -719,7 +719,7 @@
             "id": "2",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -727,7 +727,7 @@
             "id": "27",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Voice Tech",
@@ -735,7 +735,7 @@
             "id": "78",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Bootcamp Diseño UX/UI",
@@ -743,7 +743,7 @@
             "id": "60",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Data Science",
@@ -751,7 +751,7 @@
             "id": "22",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Conceptos básicos",
@@ -759,7 +759,7 @@
             "id": "70",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Javascript",
@@ -767,7 +767,7 @@
             "id": "91",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -775,7 +775,7 @@
             "id": "35",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Software Development Fundamentals II",
@@ -783,7 +783,7 @@
             "id": "1",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -791,7 +791,7 @@
             "id": "40",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Fundamentos del desarrollo web",
@@ -799,7 +799,7 @@
             "id": "46",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -807,7 +807,7 @@
             "id": "42",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Introducción al UX/UI. Design Sprint",
@@ -815,7 +815,7 @@
             "id": "54",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Bootcamp de Desarrollo Web",
@@ -823,7 +823,7 @@
             "id": "52",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Secure coding",
@@ -831,7 +831,7 @@
             "id": "64",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Desarrollo web",
@@ -839,7 +839,7 @@
             "id": "86",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Desarrollo web",
@@ -847,7 +847,7 @@
             "id": "85",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Advanced Databases",
@@ -855,7 +855,7 @@
             "id": "15",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -863,7 +863,7 @@
             "id": "39",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -871,7 +871,7 @@
             "id": "32",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Bootcamp Diseño UX/UI",
@@ -879,7 +879,7 @@
             "id": "59",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Seguridad en Cloud",
@@ -887,7 +887,7 @@
             "id": "75",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Visualization Technique",
@@ -895,7 +895,7 @@
             "id": "6",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Cybersecurity",
@@ -903,7 +903,7 @@
             "id": "18",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Algorithms",
@@ -911,7 +911,7 @@
             "id": "3",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Bootcamp de Desarrollo Web",
@@ -919,7 +919,7 @@
             "id": "50",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Voice Tech",
@@ -927,7 +927,7 @@
             "id": "76",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Bootcamp Diseño UX/UI",
@@ -935,7 +935,7 @@
             "id": "62",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -943,7 +943,7 @@
             "id": "44",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Introducción al desarrollo",
@@ -951,7 +951,7 @@
             "id": "89",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Web Programming I",
@@ -959,7 +959,7 @@
             "id": "9",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Software Development Fundamentals I",
@@ -967,7 +967,7 @@
             "id": "0",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Diseño de interfaz conversacional",
@@ -975,7 +975,7 @@
             "id": "82",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -983,7 +983,7 @@
             "id": "43",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Desarrollo web",
@@ -991,7 +991,7 @@
             "id": "84",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -999,7 +999,7 @@
             "id": "33",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Research. Técnicas de investigación",
@@ -1007,7 +1007,7 @@
             "id": "55",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Diseño de interacción y arquitectura de la información",
@@ -1015,7 +1015,7 @@
             "id": "56",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Seguridad en fase de coding",
@@ -1023,7 +1023,7 @@
             "id": "74",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Lenguajes de programación",
@@ -1031,7 +1031,7 @@
             "id": "47",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Seguridad en fase de diseño",
@@ -1039,7 +1039,7 @@
             "id": "72",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Desarrollo de aplicaciones Backend",
@@ -1047,7 +1047,7 @@
             "id": "92",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Secure coding",
@@ -1055,7 +1055,7 @@
             "id": "65",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Software Engineering II",
@@ -1063,7 +1063,7 @@
             "id": "14",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Desarrollo de aplicaciones Front con React",
@@ -1071,7 +1071,7 @@
             "id": "93",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Computer Architecture",
@@ -1079,7 +1079,7 @@
             "id": "5",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Artificial Intelligence",
@@ -1087,7 +1087,7 @@
             "id": "21",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Voice Tech",
@@ -1095,7 +1095,7 @@
             "id": "77",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Software Engineering I",
@@ -1103,7 +1103,7 @@
             "id": "13",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Blockchain",
@@ -1111,7 +1111,7 @@
             "id": "19",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -1119,7 +1119,7 @@
             "id": "30",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Big Data",
@@ -1127,7 +1127,7 @@
             "id": "16",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -1135,7 +1135,7 @@
             "id": "25",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Bootcamp Diseño UX/UI",
@@ -1143,7 +1143,7 @@
             "id": "63",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Mobile Programming II",
@@ -1151,7 +1151,7 @@
             "id": "12",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -1159,7 +1159,7 @@
             "id": "36",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "HTML y CSS",
@@ -1167,7 +1167,7 @@
             "id": "90",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -1175,7 +1175,7 @@
             "id": "28",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -1183,7 +1183,7 @@
             "id": "31",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -1191,7 +1191,7 @@
             "id": "23",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -1199,7 +1199,7 @@
             "id": "29",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -1207,7 +1207,7 @@
             "id": "34",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Secure coding",
@@ -1215,7 +1215,7 @@
             "id": "67",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Presente y futuro de las interfaces conversacionales",
@@ -1223,7 +1223,7 @@
             "id": "80",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Basic Databases",
@@ -1231,7 +1231,7 @@
             "id": "7",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Mobile Programming I",
@@ -1239,7 +1239,7 @@
             "id": "11",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Bootcamp Diseño UX/UI",
@@ -1247,7 +1247,7 @@
             "id": "61",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -1255,7 +1255,7 @@
             "id": "41",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Backend",
@@ -1263,7 +1263,7 @@
             "id": "48",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Desarrollo web",
@@ -1271,7 +1271,7 @@
             "id": "88",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Ingeniería de Desarrollo de Software",
@@ -1279,7 +1279,7 @@
             "id": "26",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Secure coding",
@@ -1287,7 +1287,7 @@
             "id": "68",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Secure coding",
@@ -1295,7 +1295,7 @@
             "id": "66",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Criptografía para desarrollo seguro",
@@ -1303,7 +1303,7 @@
             "id": "71",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Object-Oriented Programming",
@@ -1311,7 +1311,7 @@
             "id": "4",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Robotics",
@@ -1319,7 +1319,7 @@
             "id": "20",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Frontend",
@@ -1327,7 +1327,7 @@
             "id": "49",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         },
         {
             "source": "Bootcamp de Desarrollo Web",
@@ -1335,7 +1335,7 @@
             "id": "53",
             "attributes": {},
             "color": "rgb(80, 89, 249)",
-            "size": 1.0
+            "size": 2.0
         }
     ]
 }
